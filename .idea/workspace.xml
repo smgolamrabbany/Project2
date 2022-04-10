@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d320cc3e-2c4d-4e46-a2da-e3d5515be461" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/bags/bag-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/bags/bag-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/bags/bag-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/banner-images/headphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/banner-images/tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/banner-images/xbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/categories/bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/categories/shoes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/categories/watch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/pandacommerce.xd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/shoes/shoe-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/shoes/shoe-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/panda-commerce/shoes/shoe-3.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +42,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="118">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,7 +118,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -186,6 +201,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d320cc3e-2c4d-4e46-a2da-e3d5515be461" name="Default" comment="" />
@@ -193,15 +211,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649603024236</updated>
-      <workItem from="1649603025559" duration="660000" />
+      <workItem from="1649603025559" duration="1859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="660000" />
+    <option name="totallyTimeSpent" value="1859000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1370" height="744" extended-state="1" />
+    <frame x="-8" y="0" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -244,8 +262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="118">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
