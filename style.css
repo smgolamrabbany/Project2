@@ -49,4 +49,7 @@
 
 .card{
     border-radius: 10px;
+    border: none;
+    box-shadow: lightgray 10px 10px 20px;
 }
+
