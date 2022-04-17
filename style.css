@@ -46,3 +46,7 @@
 .categorise img{
     width: 100px;
 }
+
+.card{
+    border-radius: 10px;
+}
