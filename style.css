@@ -57,3 +57,11 @@
     background-color: white;
     border-top: none;
 }
+
+.container h6 {
+    color: gray;
+}
+
+#contact{
+    height: 300px;
+}
